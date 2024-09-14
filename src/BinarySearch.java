@@ -31,6 +31,7 @@ public class BinarySearch {
 
         boolean findNumber = binarySearch(myList, value);
 
+        // print out if the boolean is true
         if (findNumber) {
             System.out.println("The number is in the list");
         } else {
