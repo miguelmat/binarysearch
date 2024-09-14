@@ -20,6 +20,7 @@ public class BinarySearch {
 
         } while (start <= end);
 
+        // returns false
         return false;
     }
 
